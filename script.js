@@ -16,7 +16,7 @@ window.addEventListener('scroll', function(){
 
 // TYPED
 var typed = new Typed('.typed', {
-  strings: ["Tout juste diplômé de l’école d’ingénieur généraliste ECAMLaSalle et de l’Université de Sherbrooke en Maîtrise en Génie Aérospatial , je suis actuellement à la recherche d'opportunités (CDI) dans le secteur aérospatial en France ou en Europe. Mes stages dans des entreprises leaders de l'industrie m'ont permis de développer ma rigueur et une grande capacité à travailler en équipe. Je suis passionné par l'innovation et la découverte de nouvelles technologies et je suis impatient de relever de nouveaux défis professionnels dans une entreprise dynamique. <br>Ce site présente mon parcours et mes expériences professionnelles.<br> Bonne visite !"],
+  strings: ["Tout juste diplômé de l’école d’ingénieur généraliste ECAMLaSalle et de l’Université de Sherbrooke en Maîtrise en Génie Aérospatial , j'ai rejoins en mars 2023 l'entreprise de sous traitance en ingénierie Sii afin de collaborer avec Airbus Helicopters. Mes expériences dans des entreprises leaders de l'industrie m'ont permis de développer ma rigueur et une grande capacité à travailler en équipe. Je suis passionné par l'innovation et la découverte de nouvelles technologies et je suis impatient de relever de nouveaux défis professionnels. <br>Ce site présente mon parcours et mes expériences professionnelles.<br> Bonne visite !"],
   typeSpeed: 20,
 });
   
